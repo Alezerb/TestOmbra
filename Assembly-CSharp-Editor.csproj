@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{113D5762-FA1C-16F6-B5E3-E3962A41D7C5}</ProjectGuid>
+    <ProjectGuid>{EE04E70F-BB4A-3C0F-13A3-50461BAEFCD1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -260,10 +260,10 @@
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/16.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="ICSharpCode.NRefactory">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra2019v/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/Editor/ShaderGenerator/ICSharpCode.NRefactory.dll</HintPath>
+      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/PackageCache/com.unity.render-pipelines.core@7.3.1/Editor/ShaderGenerator/ICSharpCode.NRefactory.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra2019v/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.15f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -620,69 +620,69 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.15f1/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra2019v/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra2019v/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra2019v/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
+      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra2019v/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Shaders">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra2019v/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
+      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra2019v/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Editor">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra2019v/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
+      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Runtime">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra2019v/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra2019v/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Runtime">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra2019v/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
+      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Editor">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra2019v/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
+      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra2019v/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra2019v/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra2019v/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra2019v/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra2019v/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ShaderGraph.Editor">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra2019v/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
+      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra2019v/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra2019v/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra2019v/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{B272F956-753B-907C-A397-61682951D2A7}</Project>
+      <Project>{4622C92E-099B-1C2A-AB4B-344D960959F2}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
   </ItemGroup>
