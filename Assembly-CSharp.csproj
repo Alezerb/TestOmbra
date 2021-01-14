@@ -72,6 +72,7 @@
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <None Include="Assets\Outline Shader\Tutorial\Shaders\Outline.hlsl" />
     <None Include="Assets\Scenes\Ned Dev Scripts\EdgeDetectionOutlinesInclude.hlsl" />
+    <None Include="Assets\Alex shaderTest\Includes\CustomLighting.hlsl" />
     <None Include="Assets\Simple Toon Shader\MainLight.hlsl" />
     <None Include="Assets\Scenes\Harry Ari Scripts\EdgeDetectionShader.shader" />
     <None Include="Assets\Scenes\Ronja Scripts\OutlinesPostprocessing.shader" />
@@ -613,58 +614,58 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.15f1/Editor/Data/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipeline.Universal.ShaderLibrary">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
+      <HintPath>C:/Users/zerba/Desktop/Zerb/TestOmbra/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/zerba/Desktop/Zerb/TestOmbra/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Shaders">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
+      <HintPath>C:/Users/zerba/Desktop/Zerb/TestOmbra/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>C:/Users/zerba/Desktop/Zerb/TestOmbra/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Editor">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
+      <HintPath>C:/Users/zerba/Desktop/Zerb/TestOmbra/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.Runtime">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
+      <HintPath>C:/Users/zerba/Desktop/Zerb/TestOmbra/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/zerba/Desktop/Zerb/TestOmbra/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Runtime">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
+      <HintPath>C:/Users/zerba/Desktop/Zerb/TestOmbra/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Universal.Editor">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
+      <HintPath>C:/Users/zerba/Desktop/Zerb/TestOmbra/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/zerba/Desktop/Zerb/TestOmbra/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/zerba/Desktop/Zerb/TestOmbra/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/zerba/Desktop/Zerb/TestOmbra/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:/Users/zerba/Desktop/Zerb/TestOmbra/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
+      <HintPath>C:/Users/zerba/Desktop/Zerb/TestOmbra/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.ShaderGraph.Editor">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
+      <HintPath>C:/Users/zerba/Desktop/Zerb/TestOmbra/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.RenderPipelines.Core.ShaderLibrary">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
+      <HintPath>C:/Users/zerba/Desktop/Zerb/TestOmbra/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/zerba/Desktop/Zerb/TestOmbra/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>E:/Event Horizon/Personal/Ombra/TestOmbra3D/TestOmbra/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/zerba/Desktop/Zerb/TestOmbra/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup></ItemGroup>
