@@ -76,6 +76,7 @@
     <None Include="Assets\Simple Toon Shader\MainLight.hlsl" />
     <None Include="Assets\Scenes\Harry Ari Scripts\EdgeDetectionShader.shader" />
     <None Include="Assets\Scenes\Ronja Scripts\OutlinesPostprocessing.shader" />
+    <None Include="Assets\New toon shader\Includes\Lighting.hlsl" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
