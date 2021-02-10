@@ -63,6 +63,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\New Outline\OutlineNormalsCalculator.cs" />
     <Compile Include="Assets\Outline Shader\Tutorial\Scripts\DepthNormalsFeature.cs" />
     <Compile Include="Assets\Outline Shader\Tutorial\Scripts\OutlineFeature.cs" />
     <Compile Include="Assets\ProjectorForLWRP-master-universalrp\SRP\Scripts\ProjectorForSRP.cs" />
@@ -85,10 +86,12 @@
     <None Include="Assets\ProjectorForLWRP-master-universalrp\Shaders\ProjectorLight.shader" />
     <None Include="Assets\ProjectorForLWRP-master-universalrp\Shaders\ProjectorShadow.shader" />
     <None Include="Assets\Scenes\Ned Dev Scripts\EdgeDetectionOutlinesInclude.hlsl" />
+    <None Include="Assets\New Outline\BackFaceOutlines.hlsl" />
     <None Include="Assets\Alex shaderTest\Includes\CustomLighting.hlsl" />
     <None Include="Assets\Simple Toon Shader\MainLight.hlsl" />
     <None Include="Assets\Scenes\Harry Ari Scripts\EdgeDetectionShader.shader" />
     <None Include="Assets\Scenes\Ronja Scripts\OutlinesPostprocessing.shader" />
+    <None Include="Assets\New Outline\BackFaceOutlines.shader" />
     <None Include="Assets\New toon shader\includes\Lighting.hlsl" />
     <Reference Include="UnityEngine">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.15f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
