@@ -69,7 +69,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6b3d386ba5cd94485973aee1479b272e, type: 3}
   m_Name: Outlines
   m_EditorClassIdentifier: 
-  m_Active: 1
+  m_Active: 0
   settings:
     passTag: Outlines
     Event: 300
@@ -126,12 +126,12 @@ MonoBehaviour:
   m_Name: ForwardRenderer
   m_EditorClassIdentifier: 
   m_RendererFeatures:
-  - {fileID: 8235788799566170895}
   - {fileID: -6387446517034492432}
   - {fileID: -5820618079393431038}
   - {fileID: -3428051865121048862}
   - {fileID: 6418707755841036858}
-  m_RendererFeatureMap: 0f4b483347664b72f05d5a223c3b5ba702c2891cb20239afe236d8c3fd1c6dd03a22f337b2d41359
+  - {fileID: 4565412011373397638}
+  m_RendererFeatureMap: f05d5a223c3b5ba702c2891cb20239afe236d8c3fd1c6dd03a22f337b2d4135986863627099a5b3f
   postProcessData: {fileID: 11400000, guid: 41439944d30ece34e96484bdb6645b55, type: 2}
   shaders:
     blitPS: {fileID: 4800000, guid: c17132b1f77d20942aa75f8429c0f8bc, type: 3}
@@ -180,11 +180,31 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 94c3618bff7d66244948f1cd1c831094, type: 3}
+  m_Script: {fileID: 11500000, guid: ffc2cfca3836c2349a867c0599a07786, type: 3}
   m_Name: NewBlitMaterialFeature
   m_EditorClassIdentifier: 
   m_Active: 1
-  settings: {material: {fileID: 0}, materialPassIndex: -1, renderEvent: 300}
+  settings:
+    material: {fileID: 0}
+    materialPassIndex: -1
+    renderEvent: 300
+--- !u!114 &4565412011373397638
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffc2cfca3836c2349a867c0599a07786, type: 3}
+  m_Name: NewBlitMaterialFeature
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  settings:
+    material: {fileID: 2100000, guid: 53d11f6db55dfd14993ad02fcfeffa41, type: 2}
+    materialPassIndex: 0
+    renderEvent: 500
 --- !u!114 &5046594209548147565
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -215,20 +235,3 @@ MonoBehaviour:
   m_Name: DepthNormalsFeature
   m_EditorClassIdentifier: 
   m_Active: 1
---- !u!114 &8235788799566170895
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ffc2cfca3836c2349a867c0599a07786, type: 3}
-  m_Name: NewBlitMaterialFeature
-  m_EditorClassIdentifier: 
-  m_Active: 0
-  settings:
-    material: {fileID: 2100000, guid: 37ca7cbc80bcb3e41a89860836fdece9, type: 2}
-    materialPassIndex: 0
-    renderEvent: 500

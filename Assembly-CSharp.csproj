@@ -88,6 +88,7 @@
     <None Include="Assets\Scenes\Ned Dev Scripts\EdgeDetectionOutlinesInclude.hlsl" />
     <None Include="Assets\New Outline\BackFaceOutlines.hlsl" />
     <None Include="Assets\Alex shaderTest\Includes\CustomLighting.hlsl" />
+    <None Include="Assets\OutOutline\EdgeDetectionOutlinesInclude.hlsl" />
     <None Include="Assets\Simple Toon Shader\MainLight.hlsl" />
     <None Include="Assets\Outlines test 3\OutlinesInclude.hlsl" />
     <None Include="Assets\Scenes\Harry Ari Scripts\EdgeDetectionShader.shader" />
